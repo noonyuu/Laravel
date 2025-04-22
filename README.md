@@ -14,4 +14,5 @@
 
 ## アクセス
 
-`http://localhost`
+- web:`http://localhost`
+- phpMyAdmin:`http://localhost:3001`
