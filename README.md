@@ -1,5 +1,7 @@
 # 始めにやること
 
+- `docker compose exec ~ に入っておく`
+  以下まとめて実行
 - `chmod -R guo+w storage`
 - `php artisan storage:link`
 - `php artisan migrate`
