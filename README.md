@@ -9,6 +9,8 @@
 - `npm run dev`
 - `composer install`
 
+- .env.exampleの内容を.envに貼り付け(同じ階層でOK)
+
 ## docker
 
 - `docker compose up -d`
